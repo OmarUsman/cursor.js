@@ -1,0 +1,27 @@
+cursor {
+  display: none;
+
+  @media (pointer: fine) {
+    pointer-events: none;
+    display: inherit;
+
+    .cursor-ball {
+      position: fixed;
+      top: 0;
+      left: 0;
+      mix-blend-mode: difference;
+      z-index: 1000;
+
+      circle {
+        fill: #f7f8fa;
+      }
+    }
+
+    .ball-inner {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 13px !important;
+    }
+  }
+}
