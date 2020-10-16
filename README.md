@@ -28,4 +28,4 @@ Thats it enjoy :)
 
 # Credits
 
-All the code is orginally by @clementGir and was taken from this [codepen](https://codepen.io/clementGir/pen/RQqvQx). All I did was package into a JS script so I can reuse it when I need too and just in case somebody else wanted it too :)
+All the code is orginally by [@clementGir](https://github.com/clementGir) and was taken from this [codepen](https://codepen.io/clementGir/pen/RQqvQx). All I did was package into a JS script so I can reuse it when I need too and just in case somebody else wanted it too :)
