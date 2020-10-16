@@ -2,6 +2,10 @@
 
 "The cool circle cursor that you see on every portfolio with the 3d effects and stuff"
 
+# Screenshots
+
+![In Use](screenshots/1.gif)
+
 # Usage
 
 ### Step 1:
